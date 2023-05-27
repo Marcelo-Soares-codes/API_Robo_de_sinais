@@ -1,4 +1,4 @@
-# API para robo de sinais
+# API de Robôs de Sinais
 
 Essa API tem como objetivo facilitar a lógica por trás da criação de robôs de sinais para casas de apostas. Os exemplos contidos neste arquivo utilizam a plataforma blaze.com como referência e auxílio para o desenvolvimento de cada modo.
 
