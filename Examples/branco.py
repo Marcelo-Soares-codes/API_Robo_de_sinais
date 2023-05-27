@@ -18,8 +18,8 @@ def menssage_victory(hour, min):
     return f"""{hour}:{min} ⚪ = WIN BRANCO! ✅✅✅"""
 
 
-token = "6060820498:AAFQJy1ol0TZdIegzFfbrneMIVPM5Iumu4o"  # Aqui deve ser inserido o token do seu bot
-chat_id = "5065618545"  # Aqui deve ser inserido o chat id do seu bot
+token = ""  # Aqui deve ser inserido o token do seu bot
+chat_id = ""  # Aqui deve ser inserido o chat id do seu bot
 bot = TeleBot(token=token)
 bot.send_message(chat_id, "🤖 Robot Starting")
 
